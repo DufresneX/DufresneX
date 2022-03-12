@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![GitHub followers](https://img.shields.io/github/followers/DufresneX?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/DufresneX?style=social)
 ![Visits](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=DufresneX.DufresneX&color=2bbc8a)
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-ChromeOS-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Atom-informational?style=flat&logo=atom&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-GDScript-informational?style=flat&logo=godot&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Github-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
