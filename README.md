@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://github.com/DufresneX/DufresneX">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CMDR-Piboy314&repo=Pygame-Platformer-Godot&show_icons=true&theme=merko" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CMDR-Piboy314&repo=Pygame-Platformer&show_icons=true&theme=merko" />
 </a>
 
 
